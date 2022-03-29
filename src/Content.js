@@ -9,7 +9,7 @@ const monsters = Monsters.map
                     <h4>{Monster.monster}</h4>
                     <p>Risk: {Monster.risk}</p>
                     <p>Location: {Monster.Location}</p>
-                    <img src={Monster.img} />
+                    <img src={Monster.img} alt="" />
                 </div>
             )
     }
