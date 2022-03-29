@@ -1,0 +1,26 @@
+[
+    {
+        "monster": "Godzilla",
+        "risk": "Catastrophic",
+        "Location": "Tokyo Japan",
+        "img": "Images/godzilla.png"
+    },
+    {
+        "monster": "Queen Xenomorph",
+        "risk": "Extreme",
+        "Location": "Planetoid LV426",
+        "img": "Images/godzilla.png"
+    },
+    {
+        "monster": "Jaws",
+        "risk": "Extreme (If you are in water)",
+        "Location": "Amity Island",
+        "img": "Images/godzilla.png"
+    },
+    {
+        "monster": "Graboid",
+        "risk": "Extreme",
+        "Location": "Perfection, Nevada",
+        "img": "Images/godzilla.png"
+    }
+]
